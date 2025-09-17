@@ -25,22 +25,23 @@ public class Edge_I {
 
         // Route decision based on fuzzy category
         if (fuzzyResult.startsWith("Normal")) {
-            System.out.println("✅ [EDGE] Normal value. Storing locally & will send later.");
+            System.out.println(" [EDGE] Normal value. Storing locally & will send later.");
         }
         else if (fuzzyResult.startsWith("Slightly High")) {
-            System.out.println("⚠️ [EDGE] Slightly High → Sending to Fog for ML inference...");
+            System.out.println(" [EDGE] Slightly High → Sending to Fog for ML inference...");
             fogNode.runMLInference(value, this, gateway);   // new ML inference hook
         }
         else if (fuzzyResult.startsWith("Dangerous")) {
-            System.out.println("🚨 [EDGE] Dangerous → Sending CRITICAL ALERT to Fog!");
+            System.out.println(" [EDGE] Dangerous → Sending CRITICAL ALERT to Fog!");
             fogNode.receiveCriticalAlert(value, backupNode, gateway);
         }
 
         // Battery check
         batteryLevel -= 10;
         if (batteryLevel < 30) {
-            System.out.println("🔋 [EDGE] Low Battery Alert from " + name);
+            System.out.println(" [EDGE] Low Battery Alert from " + name);
         }
     }
 }
+
 	
