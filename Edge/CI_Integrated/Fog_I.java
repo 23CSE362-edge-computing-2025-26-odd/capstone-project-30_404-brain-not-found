@@ -55,11 +55,11 @@ public class Fog_I {
         System.out.println("[" + name + "] NN Predicted Risk: " + String.format("%.3f", risk));
 
         if (risk > 0.2) {
-            System.out.println("⚠️ [" + name + "] High risk detected! Triggering PSO dietary recommendation...");
+            System.out.println(" [" + name + "] High risk detected! Triggering PSO dietary recommendation...");
             processDietarySuggestion(value);
             gateway.forwardAdviceToHospital("High risk diet plan generated for " + edge.getName());
         } else {
-            System.out.println("✅ [" + name + "] Risk low. Monitoring only.");
+            System.out.println(" [" + name + "] Risk low. Monitoring only.");
         }
     }
 
@@ -86,3 +86,4 @@ public class Fog_I {
         return new Random().nextBoolean();
     }
 }
+
