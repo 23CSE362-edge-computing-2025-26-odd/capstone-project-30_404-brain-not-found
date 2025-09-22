@@ -1,0 +1,1093 @@
+at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+816.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+816.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+816.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+816.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+816.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 811.00 to 816.00:
+
+816.00: [Host #8] utilization at 811.00 was 0.00%, now is 0.00%
+816.00: [Host #8] energy is 0.00 W*sec
+
+816.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+821.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+821.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+821.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+821.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+821.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 816.00 to 821.00:
+
+821.00: [Host #8] utilization at 816.00 was 0.00%, now is 0.00%
+821.00: [Host #8] energy is 0.00 W*sec
+
+821.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+826.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+826.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+826.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+826.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+826.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 821.00 to 826.00:
+
+826.00: [Host #8] utilization at 821.00 was 0.00%, now is 0.00%
+826.00: [Host #8] energy is 0.00 W*sec
+
+826.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+831.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+831.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+831.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+831.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+831.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 826.00 to 831.00:
+
+831.00: [Host #8] utilization at 826.00 was 0.00%, now is 0.00%
+831.00: [Host #8] energy is 0.00 W*sec
+
+831.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+836.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+836.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+836.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+836.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+836.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 831.00 to 836.00:
+
+836.00: [Host #8] utilization at 831.00 was 0.00%, now is 0.00%
+836.00: [Host #8] energy is 0.00 W*sec
+
+836.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+841.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+841.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+841.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+841.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+841.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 836.00 to 841.00:
+
+841.00: [Host #8] utilization at 836.00 was 0.00%, now is 0.00%
+841.00: [Host #8] energy is 0.00 W*sec
+
+841.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+846.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+846.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+846.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+846.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+846.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 841.00 to 846.00:
+
+846.00: [Host #8] utilization at 841.00 was 0.00%, now is 0.00%
+846.00: [Host #8] energy is 0.00 W*sec
+
+846.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+851.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+851.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+851.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+851.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+851.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 846.00 to 851.00:
+
+851.00: [Host #8] utilization at 846.00 was 0.00%, now is 0.00%
+851.00: [Host #8] energy is 0.00 W*sec
+
+851.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+856.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+856.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+856.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+856.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+856.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 851.00 to 856.00:
+
+856.00: [Host #8] utilization at 851.00 was 0.00%, now is 0.00%
+856.00: [Host #8] energy is 0.00 W*sec
+
+856.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+861.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+861.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+861.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+861.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+861.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 856.00 to 861.00:
+
+861.00: [Host #8] utilization at 856.00 was 0.00%, now is 0.00%
+861.00: [Host #8] energy is 0.00 W*sec
+
+861.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+866.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+866.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+866.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+866.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+866.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 861.00 to 866.00:
+
+866.00: [Host #8] utilization at 861.00 was 0.00%, now is 0.00%
+866.00: [Host #8] energy is 0.00 W*sec
+
+866.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+871.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+871.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+871.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+871.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+871.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 866.00 to 871.00:
+
+871.00: [Host #8] utilization at 866.00 was 0.00%, now is 0.00%
+871.00: [Host #8] energy is 0.00 W*sec
+
+871.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+876.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+876.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+876.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+876.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+876.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 871.00 to 876.00:
+
+876.00: [Host #8] utilization at 871.00 was 0.00%, now is 0.00%
+876.00: [Host #8] energy is 0.00 W*sec
+
+876.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+881.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+881.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+881.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+881.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+881.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 876.00 to 881.00:
+
+881.00: [Host #8] utilization at 876.00 was 0.00%, now is 0.00%
+881.00: [Host #8] energy is 0.00 W*sec
+
+881.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+886.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+886.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+886.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+886.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+886.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 881.00 to 886.00:
+
+886.00: [Host #8] utilization at 881.00 was 0.00%, now is 0.00%
+886.00: [Host #8] energy is 0.00 W*sec
+
+886.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+891.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+891.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+891.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+891.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+891.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 886.00 to 891.00:
+
+891.00: [Host #8] utilization at 886.00 was 0.00%, now is 0.00%
+891.00: [Host #8] energy is 0.00 W*sec
+
+891.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+896.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+896.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+896.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+896.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+896.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 891.00 to 896.00:
+
+896.00: [Host #8] utilization at 891.00 was 0.00%, now is 0.00%
+896.00: [Host #8] energy is 0.00 W*sec
+
+896.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+901.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+901.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+901.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+901.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+901.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 896.00 to 901.00:
+
+901.00: [Host #8] utilization at 896.00 was 0.00%, now is 0.00%
+901.00: [Host #8] energy is 0.00 W*sec
+
+901.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+906.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+906.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+906.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+906.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+906.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 901.00 to 906.00:
+
+906.00: [Host #8] utilization at 901.00 was 0.00%, now is 0.00%
+906.00: [Host #8] energy is 0.00 W*sec
+
+906.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+911.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+911.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+911.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+911.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+911.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 906.00 to 911.00:
+
+911.00: [Host #8] utilization at 906.00 was 0.00%, now is 0.00%
+911.00: [Host #8] energy is 0.00 W*sec
+
+911.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+916.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+916.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+916.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+916.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+916.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 911.00 to 916.00:
+
+916.00: [Host #8] utilization at 911.00 was 0.00%, now is 0.00%
+916.00: [Host #8] energy is 0.00 W*sec
+
+916.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+921.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+921.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+921.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+921.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+921.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 916.00 to 921.00:
+
+921.00: [Host #8] utilization at 916.00 was 0.00%, now is 0.00%
+921.00: [Host #8] energy is 0.00 W*sec
+
+921.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+926.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+926.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+926.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+926.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+926.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 921.00 to 926.00:
+
+926.00: [Host #8] utilization at 921.00 was 0.00%, now is 0.00%
+926.00: [Host #8] energy is 0.00 W*sec
+
+926.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+931.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+931.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+931.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+931.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+931.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 926.00 to 931.00:
+
+931.00: [Host #8] utilization at 926.00 was 0.00%, now is 0.00%
+931.00: [Host #8] energy is 0.00 W*sec
+
+931.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+936.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+936.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+936.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+936.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+936.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 931.00 to 936.00:
+
+936.00: [Host #8] utilization at 931.00 was 0.00%, now is 0.00%
+936.00: [Host #8] energy is 0.00 W*sec
+
+936.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+941.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+941.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+941.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+941.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+941.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 936.00 to 941.00:
+
+941.00: [Host #8] utilization at 936.00 was 0.00%, now is 0.00%
+941.00: [Host #8] energy is 0.00 W*sec
+
+941.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+946.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+946.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+946.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+946.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+946.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 941.00 to 946.00:
+
+946.00: [Host #8] utilization at 941.00 was 0.00%, now is 0.00%
+946.00: [Host #8] energy is 0.00 W*sec
+
+946.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+951.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+951.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+951.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+951.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+951.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 946.00 to 951.00:
+
+951.00: [Host #8] utilization at 946.00 was 0.00%, now is 0.00%
+951.00: [Host #8] energy is 0.00 W*sec
+
+951.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+956.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+956.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+956.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+956.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+956.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 951.00 to 956.00:
+
+956.00: [Host #8] utilization at 951.00 was 0.00%, now is 0.00%
+956.00: [Host #8] energy is 0.00 W*sec
+
+956.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+961.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+961.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+961.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+961.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+961.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 956.00 to 961.00:
+
+961.00: [Host #8] utilization at 956.00 was 0.00%, now is 0.00%
+961.00: [Host #8] energy is 0.00 W*sec
+
+961.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+966.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+966.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+966.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+966.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+966.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 961.00 to 966.00:
+
+966.00: [Host #8] utilization at 961.00 was 0.00%, now is 0.00%
+966.00: [Host #8] energy is 0.00 W*sec
+
+966.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+971.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+971.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+971.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+971.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+971.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 966.00 to 971.00:
+
+971.00: [Host #8] utilization at 966.00 was 0.00%, now is 0.00%
+971.00: [Host #8] energy is 0.00 W*sec
+
+971.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+976.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+976.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+976.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+976.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+976.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 971.00 to 976.00:
+
+976.00: [Host #8] utilization at 971.00 was 0.00%, now is 0.00%
+976.00: [Host #8] energy is 0.00 W*sec
+
+976.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+981.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+981.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+981.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+981.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+981.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 976.00 to 981.00:
+
+981.00: [Host #8] utilization at 976.00 was 0.00%, now is 0.00%
+981.00: [Host #8] energy is 0.00 W*sec
+
+981.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+986.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+986.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+986.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+986.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+986.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 981.00 to 986.00:
+
+986.00: [Host #8] utilization at 981.00 was 0.00%, now is 0.00%
+986.00: [Host #8] energy is 0.00 W*sec
+
+986.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+991.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+991.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+991.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+991.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+991.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 986.00 to 991.00:
+
+991.00: [Host #8] utilization at 986.00 was 0.00%, now is 0.00%
+991.00: [Host #8] energy is 0.00 W*sec
+
+991.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+996.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+996.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+996.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+996.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+996.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 991.00 to 996.00:
+
+996.00: [Host #8] utilization at 991.00 was 0.00%, now is 0.00%
+996.00: [Host #8] energy is 0.00 W*sec
+
+996.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+1001.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+1001.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+1001.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+1001.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+1001.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 996.00 to 1001.00:
+
+1001.00: [Host #8] utilization at 996.00 was 0.00%, now is 0.00%
+1001.00: [Host #8] energy is 0.00 W*sec
+
+1001.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
+        at org.fog.entities.FogDevice.processTupleArrival(FogDevice.java:739)
+        at org.fog.entities.FogDevice.processOtherEvent(FogDevice.java:252)
+        at org.cloudbus.cloudsim.Datacenter.processEvent(Datacenter.java:254)
+        at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:406)
+        at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:520)
+        at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:885)
+        at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+        at org.fog.test.perfeval.SmartPKUSimulation.main(SmartPKUSimulation.java:86)
+
+1006.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+1006.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+1006.00: [Host #8] Total allocated MIPS for VM #1 (Host #8) is 0.00, was requested 0.00 out of total 1000.00 (0.00%)
+1006.00: [Host #8] MIPS for VM #1 by PEs (1 * 200.0).
+1006.00: [Host #8] utilization is 0.00%
+
+Energy consumption for the last time frame from 1001.00 to 1006.00:
+
+1006.00: [Host #8] utilization at 1001.00 was 0.00%, now is 0.00%
+1006.00: [Host #8] energy is 0.00 W*sec
+
+1006.00: Data center's energy is 0.00 W*sec
+
+
+mobile_0.processCloudletSubmit(): Exception error.
+java.lang.NullPointerException: Cannot invoke "org.cloudbus.cloudsim.Vm.getCloudletScheduler()" because "<local9>" is null
+        at org.cloudbus.cloudsim.Datacenter.processCloudletSubmit(Datacenter.java:720)
+        at org.cloudbus.cloudsim.power.PowerDatacenter.processCloudletSubmit(PowerDatacenter.java:269)
+        at org.fog.entities.FogDevice.executeTuple(FogDevice.java:812)
